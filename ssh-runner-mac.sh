@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 nodes=$@
 case $1 in
